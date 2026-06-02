@@ -1,6 +1,6 @@
 #profile-title: 🏢سرور آمبرلا - 🚱اضطراری
 #profile-update-interval: 24
-#subscription-userinfo: upload=0; download=0; total=1099511627776; expire=2546249531
+#subscription-userinfo: upload=0; download=0; total=1072668082176; expire=1788134400
 #support-url: https://t.me/UmbrellaVPN_BOT
 #profile-web-page-url: https://github.com/armin-soft
 
