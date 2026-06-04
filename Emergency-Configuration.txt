@@ -14,4 +14,5 @@ https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/s
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+
+https://raw.githubusercontent.com/masir-sefid/Sub/main/@Masir_Sefid.txt
